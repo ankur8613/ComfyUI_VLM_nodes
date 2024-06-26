@@ -49,7 +49,7 @@ install_autogptq(system_info)
 init()
 
 node_list = [
-    "moondream_script",
+    #"moondream_script",
     "simpletext",
     "llavaloader",
     "suggest",
@@ -60,7 +60,7 @@ node_list = [
     "audioldm2",
     "playmusic",
     "mcllava",
-    "moondream2",
+    #"moondream2",
 ]
 
 NODE_CLASS_MAPPINGS = {}
